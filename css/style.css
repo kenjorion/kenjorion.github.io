@@ -1,0 +1,111 @@
+*{margin:0; padding: 0}
+
+.fond_vert{background: green;}
+.fond_violet{background: purple;}
+/**/
+.fond_lime{background: lime;}
+.fond_darkslategray {background: DarkSlateGray ;} 
+.fond_sombre{background: #153030;}
+/**/
+
+p, h1, h2, a, li {
+	font-family: 'Slabo 27px', serif;
+}
+
+.container
+{
+    padding-top: 10px;
+}
+
+#nav 
+{
+    padding-right: 10px;
+}
+
+a:hover 
+{
+    text-decoration: none!important;
+}
+
+.card {
+margin-bottom:10px;
+}
+    
+.photo 
+{
+	width: ;
+    float: left;
+}
+
+
+/*************************************** NAVIGATION **********************************************************/
+
+li
+{ 
+padding-right: 20px; 
+text-decoration: none; 
+color: black;
+list-style-type: none;
+width: auto;
+padding-left: 20px;
+padding-right: 20px;
+}
+
+
+
+header > div{
+	min-height: 80px;
+	line-height: 80px;
+}
+div.row > div{
+	min-height: 30px;
+	line-height: 30px; 
+}
+section > div{
+	min-height: 40px;
+	line-height: 80px;
+}
+footer > div{
+	min-height: 80px;
+	line-height: 80px;
+}
+section > div p{
+	line-height: 26px;
+	text-align: justify;
+	padding: 6px;
+}
+/*.row1 .vignette{
+	width: 100%;
+	height: 100%;*/
+}
+.row2 .vignette{
+	width: 45%;
+	height: 100%;
+}
+.row3 .vignette{
+	width: 30%;
+	height: 100%;
+}
+.row4 .vignette{
+	width: 20%;
+	height: 100%;
+}
+
+/**********************************************************************************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
